@@ -8,7 +8,7 @@ This unique background allows me to approach software development with both anal
 
 I'm passionate about building practical applications that solve real-world problems, and I'm eager to contribute my skills to a development team while continuing to grow and learn in the software engineering field.
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages & Markup
 - **Java** - Object-oriented programming, algorithm implementation, concurrent programming with virtual threads, exception handling, test-driven development.
